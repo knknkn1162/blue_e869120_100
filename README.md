@@ -65,10 +65,10 @@
 ||57|[JOI 2008 予選 6 - 船旅](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f)|3|ワーシャルフロイド法でも(ダイクストラでも)|[ダイクストラ + min heap](https://atcoder.jp/contests/joi2008yo/submissions/11579403)|
 ||58|[JOI 2016 予選 5 - ゾンビ島](https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e)|4|幅優先探索も使う。実装重め|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2016yo/submissions/11613275)|
 ||59|[JOI 2014 予選 5 - タクシー](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e)|5|-|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2014yo/submissions/11632287)|
-|o|60|[GRL_1_C - 全点対間最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_C)|2|基本問題|[]()|
-|o|61|[AtCoder Beginner Contest 012 D - バスと避けられない運命](https://atcoder.jp/contests/abc012/tasks/abc012_4)||-|[]()|
-|o|62|[AtCoder Beginner Contest 079 D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)||-|[]()|
-|o|63|[AtCoder Beginner Contest 074 D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b)||数学的考察が必要で難しいがおすすめ|[]()|
+||60|[GRL_1_C - 全点対間最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_C)|3|基本問題|[ワーシャルフロイド法,重みの上限がシビア](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_C/review/4331113/knknkn1162/C)|
+||61|[AtCoder Beginner Contest 012 D - バスと避けられない運命](https://atcoder.jp/contests/abc012/tasks/abc012_4)|2|-|[ワーシャルフロイド法](https://atcoder.jp/contests/abc012/submissions/11640675)|
+||62|[AtCoder Beginner Contest 079 D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)|3|-|[2次元をgraphに見立ててワーシャルフロイド法, map](https://atcoder.jp/contests/abc079/submissions/11641009)|
+||63|[AtCoder Beginner Contest 074 D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b)|5|数学的考察が必要で難しいがおすすめ|[ワーシャルフロイド2回](https://atcoder.jp/contests/abc074/submissions/11645387)|
 |o|64|[GRL_2_A - 最小全域木](https://onlinejudge.u-aizu.ac.jp/problems/GRL_2_A)||基本問題|[]()|
 |o|65|[JOI 2010 春合宿 - Finals](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals)||JOI 春合宿の問題だが、比較的簡単|[]()|
 |o|66|[AOJ 1127 - Building a Space Station](https://onlinejudge.u-aizu.ac.jp/problems/1127)||-|[]()|
