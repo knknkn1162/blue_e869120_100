@@ -19,12 +19,12 @@
 ||11|[AtCoder Beginner Contest 128 C - Switches](https://atcoder.jp/contests/abc128/tasks/abc128_c)|3|-|[bit全探索,ややこしい](https://atcoder.jp/contests/abc128/submissions/10586194)|
 ||12|[AtCoder Beginner Contest 002 D - 派閥](https://atcoder.jp/contests/abc002/tasks/abc002_4)|2|-|[bit全探索](https://atcoder.jp/contests/abc002/submissions/10667180)|
 ||13|[JOI 2008 予選 5 - おせんべい](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e)|2|茶色コーダーにはやや難|[縦に関してbit全探索](https://atcoder.jp/contests/joi2008yo/submissions/10734695)|
-||14|[Square869120Contest #4 B - Buildings are Colorful!](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b)|難問|4|[建物数に関してbit全探索](https://atcoder.jp/contests/s8pc-4/submissions/10738108)|
+||14|[Square869120Contest #4 B - Buildings are Colorful!](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b)|4|難問|[建物数に関してbit全探索](https://atcoder.jp/contests/s8pc-4/submissions/10738108)|
 ||15|[AtCoder Beginner Contest 145 C - Average Length](https://atcoder.jp/contests/abc145/tasks/abc145_c)|2|-|[順列全探索](https://atcoder.jp/contests/abc145/submissions/10605659)|
 ||16|[AtCoder Beginner Contest 150 C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c)|2|-|[順列全探索](https://atcoder.jp/contests/abc150/submissions/10632625)|
 ||17|[ALDS_13_A - 8 クイーン問題](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_13_A)|3|面白い|[順列全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_13_A/review/4254080/knknkn1162/C)|
 ||18|[ALDS_4_B - 二分探索](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_4_B)|1|基本問題|[二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4261818/knknkn1162/C)|
-||19|[JOI 2009 本選 2 - ピザ](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)|2|[二分探索](https://atcoder.jp/contests/joi2009ho/submissions/10814537)|
+||19|[JOI 2009 本選 2 - ピザ](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)|2|-|[二分探索](https://atcoder.jp/contests/joi2009ho/submissions/10814537)|
 ||20|[AtCoder Beginner Contest 077 C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a)|3|面白い|[二分探索(lower/upper bound)、中部を軸に](https://atcoder.jp/contests/abc077/submissions/10816319) or [二分探索,累積和](https://atcoder.jp/contests/abc077/submissions/10815991)|
 ||21|[AtCoder Beginner Contest 023 D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|5|教育的に良い|[解決め打ちで二分検索(lower bound)](https://atcoder.jp/contests/abc023/submissions/11029093)|
 ||22|[AtCoder Regular Contest 054 B - ムーアの法則](https://atcoder.jp/contests/arc054/tasks/arc054_b)|3|微分して二分法|[二分法](https://atcoder.jp/contests/arc054/submissions/10824878) or [手計算](https://atcoder.jp/contests/arc054/submissions/10823956)|
@@ -48,14 +48,14 @@
 ||40|[JOI 2012 予選 4 - パスタ](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d)|5|-|[DP, 三項間漸化式](https://atcoder.jp/contests/joi2012yo/submissions/11063373)|
 ||41|[JOI 2013 予選 4 - 暑い日々](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d)|4|-|[DP](https://atcoder.jp/contests/joi2013yo/submissions/11071917)|
 ||42|[JOI 2015 予選 4 - シルクロード](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d)|4|-|[DP, 添字に注意](https://atcoder.jp/contests/joi2015yo/submissions/11072738)|
-||43|[パ研杯2019 D - パ研軍旗](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_d)||4|-|[DP](https://atcoder.jp/contests/pakencamp-2019-day3/submissions/11073514)|
+||43|[パ研杯2019 D - パ研軍旗](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_d)|4|-|[DP](https://atcoder.jp/contests/pakencamp-2019-day3/submissions/11073514)|
 ||44|[AOJ 1167 - ポロック予想](https://onlinejudge.u-aizu.ac.jp/problems/1167)|3|-|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1167/review/4285611/knknkn1162/C)|
 ||45|[AOJ 2199 - 差分パルス符号変調](https://onlinejudge.u-aizu.ac.jp/problems/2199)|4|-|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/2199/review/4290020/knknkn1162/C)|
 ||46|[ALDS_10_B - 連鎖行列積](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_10_B)|3|基本問題|[区間DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_10_B/review/4290616/knknkn1162/C)|
 ||47|[JOI 2015 本選 2 - ケーキの切り分け 2](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b)|4|O(N^2)の区間DP|[区間DP](https://atcoder.jp/contests/joi2015ho/submissions/11199863)|
 ||48|[AOJ 1611 ダルマ落とし](https://onlinejudge.u-aizu.ac.jp/problems/1611)|5|O(N^3)の区間DP|[下からi個までのダルマについて都度区間DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1611/review/4296429/knknkn1162/C)|
-||49|[DPL_2_A - 巡回セールスマン問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_2_A)|3||[bit DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_2_A/review/4300234/knknkn1162/C)|
-||50|[Square869120Contest #1 G - Revenge of Traveling Salesman Problem](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g)|4||[bit DP](https://atcoder.jp/contests/s8pc-1/submissions/11258019)|
+||49|[DPL_2_A - 巡回セールスマン問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_2_A)|3|基本問題|[bit DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_2_A/review/4300234/knknkn1162/C)|
+||50|[Square869120Contest #1 G - Revenge of Traveling Salesman Problem](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g)|4|巡回セールスマン問題の類題|[bit DP](https://atcoder.jp/contests/s8pc-1/submissions/11258019)|
 ||51|[JOI 2014 予選 4 - 部活のスケジュール表](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d)|3|一応bitDPとして|[bitDP or DP](https://atcoder.jp/contests/joi2014yo/submissions/11260609)|
 ||52|[JOI 2017 予選 4 - ぬいぐるみの整理](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)|5|少し難しい|[bitDP, 累積和](https://atcoder.jp/contests/joi2017yo/submissions/11263795)|
 ||53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|-|[stack](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4302517/knknkn1162/C)|
@@ -65,7 +65,7 @@
 ||57|[JOI 2008 予選 6 - 船旅](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f)|3|ワーシャルフロイド法でも(ダイクストラでも)|[ダイクストラ + min heap](https://atcoder.jp/contests/joi2008yo/submissions/11579403)|
 ||58|[JOI 2016 予選 5 - ゾンビ島](https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e)|4|幅優先探索も使う。実装重め|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2016yo/submissions/11613275)|
 ||59|[JOI 2014 予選 5 - タクシー](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e)|5|-|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2014yo/submissions/11632287)|
-|o|60|[GRL_1_C - 全点対間最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_C)||基本問題|[]()|
+|o|60|[GRL_1_C - 全点対間最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_C)|2|基本問題|[]()|
 |o|61|[AtCoder Beginner Contest 012 D - バスと避けられない運命](https://atcoder.jp/contests/abc012/tasks/abc012_4)||-|[]()|
 |o|62|[AtCoder Beginner Contest 079 D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)||-|[]()|
 |o|63|[AtCoder Beginner Contest 074 D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b)||数学的考察が必要で難しいがおすすめ|[]()|
@@ -75,8 +75,8 @@
 |o|67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)||やや難しい。素朴な最小全域木では解けない|[]()|
 |o|68|[NTL_1_A - 素因数分解](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_A)||基本問題|[]()|
 |o|69|[AtCoder Beginner Contest 084 D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d)||-|[]()|
-|o|70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)|||[]()|
-|o|71|[Square869120Contest #1 E - 散歩](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)|||[]()|
+|o|70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)||-|[]()|
+|o|71|[Square869120Contest #1 E - 散歩](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)||-|[]()|
 |o|72|[AtCoder Beginner Contest 034 C - 経路]()||基本問題|[]()|
 |o|73|[Atcoder Beginner Contest 145 D - Knight]()||-|[]()|
 |o|74|[AtCoder Beginner Contest 021 D - 多重ループ]()||-|[]()|
