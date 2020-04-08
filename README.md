@@ -4,7 +4,7 @@
 
 # 全問題一覧
 
-|todo|idx|問題名|難易度(1~5)|comment|方針/解答例|
+|todo|idx|問題名|難易度(1~5)|comment by @E869120 |方針/解答例|
 |---|---|---|---|---|---|
 ||1|[組み合わせの数](https://onlinejudge.u-aizu.ac.jp/problems/ITP1_7_B)|1|基本問題|[全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ITP1_7_B/review/4281105/knknkn1162/C)|
 ||2|[AtCoder Beginner Contest 106 B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|1|-|[全探索](https://atcoder.jp/contests/abc106/submissions/11035473) or [手計算](https://atcoder.jp/contests/abc106/submissions/10375434)|
