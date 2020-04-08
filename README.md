@@ -71,12 +71,12 @@
 ||63|[AtCoder Beginner Contest 074 D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b)|5|数学的考察が必要で難しいがおすすめ|[ワーシャルフロイド2回](https://atcoder.jp/contests/abc074/submissions/11645387)|
 ||64|[GRL_2_A - 最小全域木](https://onlinejudge.u-aizu.ac.jp/problems/GRL_2_A)||基本問題|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_2_A/review/4333233/knknkn1162/C)|
 ||65|[JOI 2010 春合宿 - Finals(Day 3)](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals), [問題](https://www.ioi-jp.org/camp/2010/2010-sp-tasks/2010-sp-day3_22.pdf)|4|JOI 春合宿の問題だが、比較的簡単|[クラスカル法 + 一般のKの時の考察](https://atcoder.jp/contests/joisc2010/submissions/11659915)|
-|o|66|[AOJ 1127 - Building a Space Station](https://onlinejudge.u-aizu.ac.jp/problems/1127)||-|[]()|
-|o|67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)||やや難しい。素朴な最小全域木では解けない|[]()|
-|o|68|[NTL_1_A - 素因数分解](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_A)||基本問題|[]()|
-|o|69|[AtCoder Beginner Contest 084 D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d)||-|[]()|
-|o|70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)||-|[]()|
-|o|71|[Square869120Contest #1 E - 散歩](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)||-|[]()|
+||66|[AOJ 1127 - Building a Space Station](https://onlinejudge.u-aizu.ac.jp/problems/1127)|3|-|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1127/review/4333742/knknkn1162/C)|
+||67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)||やや難しい。素朴な最小全域木ではO(N^2)で解けないが..|[ソート -> クラスカル法](https://atcoder.jp/contests/abc065/submissions/11662019)|
+||68|[NTL_1_A - 素因数分解](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_A)|1~2|基本問題|[単純なloopによる解法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_A/review/4334191/knknkn1162/C) or [エラトステネスのふるい](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_A/review/4334411/knknkn1162/C)|
+||69|[AtCoder Beginner Contest 084 D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d)|3|-|[エラトステネスのふるい + 累積和](https://atcoder.jp/contests/abc084/submissions/11665020)|
+||70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)||-|[bit演算](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_B/review/4334457/knknkn1162/C)|
+||71|[Square869120Contest #1 E - 散歩](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)|4|-|[bit演算, いもす法](https://atcoder.jp/contests/s8pc-1/submissions/11667270)|
 |o|72|[AtCoder Beginner Contest 034 C - 経路]()||基本問題|[]()|
 |o|73|[Atcoder Beginner Contest 145 D - Knight]()||-|[]()|
 |o|74|[AtCoder Beginner Contest 021 D - 多重ループ]()||-|[]()|
