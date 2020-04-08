@@ -13,7 +13,7 @@
 ||5|[AtCoder Beginner Contest 095 C - Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a)|2|-|[考察](https://atcoder.jp/contests/abc095/submissions/10376238)|
 ||6|[三井住友信託銀行プログラミングコンテスト 2019 D - Lucky PIN](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d)|2|-|[全探索(要工夫), skip](https://atcoder.jp/contests/sumitrust2019/submissions/10583223)|
 ||7|[JOI 2007 本選 3 - 最古の遺跡](https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c)|2|面白い|[全探索(要工夫),二次元](https://atcoder.jp/contests/joi2007ho/submissions/10660106)|
-||8|[Square869120Contest #6 B - AtCoder Markets](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)|4|工夫|[全探索(工夫),中央値](https://atcoder.jp/contests/s8pc-6/submissions/10662359)|
+||8|[Square869120Contest #6 B - AtCoder Markets](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)|4|工夫|[全探索(要工夫),中央値](https://atcoder.jp/contests/s8pc-6/submissions/10662359)|
 ||9|[JOI 2008 予選 4 - 星座探し](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d)|3|-|[全探索(要工夫),二次元](https://atcoder.jp/contests/joi2008yo/submissions/10665323)|
 ||10|[ALDS_5_A - 総当たり](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_5_A)|1|基本問題|[bit全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_5_A/review/4244976/knknkn1162/C)|
 ||11|[AtCoder Beginner Contest 128 C - Switches](https://atcoder.jp/contests/abc128/tasks/abc128_c)|3|-|[bit全探索,ややこしい](https://atcoder.jp/contests/abc128/submissions/10586194)|
@@ -23,7 +23,7 @@
 ||15|[AtCoder Beginner Contest 145 C - Average Length](https://atcoder.jp/contests/abc145/tasks/abc145_c)|2|-|[順列全探索](https://atcoder.jp/contests/abc145/submissions/10605659)|
 ||16|[AtCoder Beginner Contest 150 C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c)|2|-|[順列全探索](https://atcoder.jp/contests/abc150/submissions/10632625)|
 ||17|[ALDS_13_A - 8 クイーン問題](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_13_A)|3|面白い|[順列全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_13_A/review/4254080/knknkn1162/C)|
-||18|[ALDS_4_B - 二分探索](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_4_B)|1|基本問題|[二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4261818/knknkn1162/C)|
+||18|[ALDS_4_B - 二分探索](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_4_B)|1|基本問題, mapでも解ける|[二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4261818/knknkn1162/C), [hash(map)](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4333032/knknkn1162/C)|
 ||19|[JOI 2009 本選 2 - ピザ](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)|2|-|[二分探索](https://atcoder.jp/contests/joi2009ho/submissions/10814537)|
 ||20|[AtCoder Beginner Contest 077 C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a)|3|面白い|[二分探索(lower/upper bound)、中部を軸に](https://atcoder.jp/contests/abc077/submissions/10816319) or [二分探索,累積和](https://atcoder.jp/contests/abc077/submissions/10815991)|
 ||21|[AtCoder Beginner Contest 023 D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|5|教育的に良い|[解決め打ちで二分検索(lower bound)](https://atcoder.jp/contests/abc023/submissions/11029093)|
@@ -58,7 +58,7 @@
 ||50|[Square869120Contest #1 G - Revenge of Traveling Salesman Problem](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g)|4|巡回セールスマン問題の類題|[bit DP](https://atcoder.jp/contests/s8pc-1/submissions/11258019)|
 ||51|[JOI 2014 予選 4 - 部活のスケジュール表](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d)|3|一応bitDPとして|[bitDP or DP](https://atcoder.jp/contests/joi2014yo/submissions/11260609)|
 ||52|[JOI 2017 予選 4 - ぬいぐるみの整理](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)|5|少し難しい|[bitDP, 累積和](https://atcoder.jp/contests/joi2017yo/submissions/11263795)|
-||53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|-|[stack](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4302517/knknkn1162/C)|
+||53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|-|[stack, 線形探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4332973/knknkn1162/C) or [stack, 二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4302517/knknkn1162/C)|
 ||54|[AtCoder Beginner Contest 006 D - トランプ挿入ソート](https://atcoder.jp/contests/abc006/tasks/abc006_4)|3|-|[53とほぼ同様にstack](https://atcoder.jp/contests/abc006/submissions/11331581)|
 ||55|[AtCoder Beginner Contest 134 E - Sequence Decomposing](https://atcoder.jp/contests/abc134/tasks/abc134_e)|5|チャレンジ問題|[groupの要素数をメンバにしたstack](https://atcoder.jp/contests/abc134/submissions/11333378)|
 ||56|[GRL_1_A - 単一始点最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_A)|3|-|[ダイクストラ+min heap](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C), [ベルマンフォード法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C)|
@@ -84,7 +84,7 @@
 |o|76|[全国統一プログラミング王決定戦本戦 A - Abundant Resources](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a)|1|基本|[累積和](https://atcoder.jp/contests/nikkei2019-final/submissions/11334284)|
 ||77|[JOI 2010 本選 1 - 旅人](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a)|2|-|[累積和, 添字に注意](https://atcoder.jp/contests/joi2010ho/submissions/11338148)|
 ||78|[JOI 2011 本選 1 - 惑星探査](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1)|3|二次元累積和|[二次元累積和](https://atcoder.jp/contests/joi2011ho/submissions/11340451)|
-||79|[AtCoder Beginner Contest 106 D - AtCoder Express 2](https://atcoder.jp/contests/abc106/tasks/abc106_d)|3|-|[二次元累積和、添字に注意](https://atcoder.jp/contests/abc106/submissions/11348226)|
+||79|[AtCoder Beginner Contest 106 D - AtCoder Express 2](https://atcoder.jp/contests/abc106/tasks/abc106_d)|3|-|[二次元累積和](https://atcoder.jp/contests/abc106/submissions/11348226), [区間DP](https://atcoder.jp/contests/abc106/submissions/11346781)|
 ||80|[GigaCode 2019 D - 家の建設](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d)|3|-|[二次元累積和](https://atcoder.jp/contests/gigacode-2019/submissions/11350327)|
 ||81|[AtCoder Beginner Contest 014 C - AtColor](https://atcoder.jp/contests/abc014/tasks/abc014_3)|3|基本問題|[いもす法](https://atcoder.jp/contests/abc014/submissions/11362928)|
 ||82|[AOJ 2013 - 大崎](https://onlinejudge.u-aizu.ac.jp/problems/2013)|3|-|[いもす法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/2013/review/4306854/knknkn1162/C)|
