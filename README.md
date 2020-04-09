@@ -69,7 +69,7 @@
 ||61|[AtCoder Beginner Contest 012 D - バスと避けられない運命](https://atcoder.jp/contests/abc012/tasks/abc012_4)|2|-|[ワーシャルフロイド法](https://atcoder.jp/contests/abc012/submissions/11640675)|
 ||62|[AtCoder Beginner Contest 079 D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)|3|-|[2次元をgraphに見立ててワーシャルフロイド法, map](https://atcoder.jp/contests/abc079/submissions/11641009)|
 ||63|[AtCoder Beginner Contest 074 D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b)|5|数学的考察が必要で難しいがおすすめ|[ワーシャルフロイド2回](https://atcoder.jp/contests/abc074/submissions/11645387)|
-||64|[GRL_2_A - 最小全域木](https://onlinejudge.u-aizu.ac.jp/problems/GRL_2_A)||基本問題|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_2_A/review/4333233/knknkn1162/C)|
+||64|[GRL_2_A - 最小全域木](https://onlinejudge.u-aizu.ac.jp/problems/GRL_2_A)|2|基本問題|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_2_A/review/4333233/knknkn1162/C)|
 ||65|[JOI 2010 春合宿 - Finals(Day 3)](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals), [問題](https://www.ioi-jp.org/camp/2010/2010-sp-tasks/2010-sp-day3_22.pdf)|4|JOI 春合宿の問題だが、比較的簡単|[クラスカル法 + 一般のKの時の考察](https://atcoder.jp/contests/joisc2010/submissions/11659915)|
 ||66|[AOJ 1127 - Building a Space Station](https://onlinejudge.u-aizu.ac.jp/problems/1127)|3|-|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1127/review/4333742/knknkn1162/C)|
 ||67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)|4|やや難しい。素朴な最小全域木ではO(N^2)で解けないが..|[ソート -> クラスカル法](https://atcoder.jp/contests/abc065/submissions/11662019)|
