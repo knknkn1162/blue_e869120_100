@@ -77,11 +77,11 @@
 ||69|[AtCoder Beginner Contest 084 D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d)|3|-|[エラトステネスのふるい + 累積和](https://atcoder.jp/contests/abc084/submissions/11665020)|
 ||70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)||-|[bit演算](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_B/review/4334457/knknkn1162/C)|
 ||71|[Square869120Contest #1 E - 散歩](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)|4|-|[bit演算, いもす法](https://atcoder.jp/contests/s8pc-1/submissions/11667270)|
-|o|72|[AtCoder Beginner Contest 034 C - 経路]()||基本問題|[]()|
-|o|73|[Atcoder Beginner Contest 145 D - Knight]()||-|[]()|
-|o|74|[AtCoder Beginner Contest 021 D - 多重ループ]()||-|[]()|
-|o|75|[AtCoder Beginner Contest 149 F - Surrounded Nodes]()||チャレンジ問題|[]()|
-|o|76|[全国統一プログラミング王決定戦本戦 A - Abundant Resources](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a)|1|基本|[累積和](https://atcoder.jp/contests/nikkei2019-final/submissions/11334284)|
+||72|[AtCoder Beginner Contest 034 C - 経路](https://atcoder.jp/contests/abc034/tasks/abc034_c)|3|基本問題|[二項係数の計算、逆元](https://atcoder.jp/contests/abc034/submissions/11684318)|
+||73|[Atcoder Beginner Contest 145 D - Knight](https://atcoder.jp/contests/abc145/tasks/abc145_d)|3|-|[考察、二項係数の計算、逆元](https://atcoder.jp/contests/abc145/submissions/11685019)|
+||74|[AtCoder Beginner Contest 021 D - 多重ループ](https://atcoder.jp/contests/abc021/tasks/abc021_d)|3|-|[考察、重複組合せ, 逆元](https://atcoder.jp/contests/abc021/submissions/11687036)|
+|o|75|[AtCoder Beginner Contest 149 F - Surrounded Nodes](https://atcoder.jp/contests/abc149/tasks/abc149_f)|5|チャレンジ問題|[]()|
+||76|[全国統一プログラミング王決定戦本戦 A - Abundant Resources](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a)|1|基本|[累積和](https://atcoder.jp/contests/nikkei2019-final/submissions/11334284)|
 ||77|[JOI 2010 本選 1 - 旅人](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a)|2|-|[累積和, 添字に注意](https://atcoder.jp/contests/joi2010ho/submissions/11338148)|
 ||78|[JOI 2011 本選 1 - 惑星探査](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1)|3|二次元累積和|[二次元累積和](https://atcoder.jp/contests/joi2011ho/submissions/11340451)|
 ||79|[AtCoder Beginner Contest 106 D - AtCoder Express 2](https://atcoder.jp/contests/abc106/tasks/abc106_d)|3|-|[二次元累積和](https://atcoder.jp/contests/abc106/submissions/11348226) or [区間DP](https://atcoder.jp/contests/abc106/submissions/11346781)|
