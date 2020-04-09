@@ -105,7 +105,7 @@
 ||97|[AtCoder Beginner Contest 150 D - Semi Common Multiple](https://atcoder.jp/contests/abc150/submissions/11522990)|3|-|[最小公倍数](https://atcoder.jp/contests/abc150/submissions/11522990)|
 ||98|[三井住友信託銀行プログラミングコンテスト2019 予選 E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e)|3|-|[数学的な考察, 配列](https://atcoder.jp/contests/sumitrust2019/submissions/11699547)|
 ||99|[DDCC2020 予選 D - Digit Sum Replace](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d)|4|考察一個|[考察(数字の遷移方法は2パターンのうちどれか)](https://atcoder.jp/contests/ddcc2020-qual/submissions/11700593)|
-|o|100|[Tenka1 Programmer Beginner Contest D - Crossing](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d)||やや難|[]()|
+||100|[Tenka1 Programmer Beginner Contest D - Crossing](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d)|4|やや難|[部分集合の要素数を決めて構成, n=1も考慮](https://atcoder.jp/contests/tenka1-2018-beginner/submissions/11702203)|
 
 # 解説
 
