@@ -104,7 +104,7 @@
 ||96|[AtCoder Beginner Contest 139 D - ModSum](https://atcoder.jp/contests/abc139/tasks/abc139_d)|2|考察一個|[法則性をみつけるだけ](https://atcoder.jp/contests/abc139/submissions/11487225)|
 ||97|[AtCoder Beginner Contest 150 D - Semi Common Multiple](https://atcoder.jp/contests/abc150/submissions/11522990)|3|-|[最小公倍数](https://atcoder.jp/contests/abc150/submissions/11522990)|
 ||98|[三井住友信託銀行プログラミングコンテスト2019 予選 E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e)|3|-|[数学的な考察, 配列](https://atcoder.jp/contests/sumitrust2019/submissions/11699547)|
-||99|[DDCC2020 予選 D - Digit Sum Replace](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d)||考察一個|[考察(数字の遷移方法は2パターンのうちどれか)](https://atcoder.jp/contests/ddcc2020-qual/submissions/11700593)|
+||99|[DDCC2020 予選 D - Digit Sum Replace](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d)|4|考察一個|[考察(数字の遷移方法は2パターンのうちどれか)](https://atcoder.jp/contests/ddcc2020-qual/submissions/11700593)|
 |o|100|[Tenka1 Programmer Beginner Contest D - Crossing](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d)||やや難|[]()|
 
 # 解説
