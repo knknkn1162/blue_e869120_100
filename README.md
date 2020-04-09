@@ -72,7 +72,7 @@
 ||64|[GRL_2_A - 最小全域木](https://onlinejudge.u-aizu.ac.jp/problems/GRL_2_A)||基本問題|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_2_A/review/4333233/knknkn1162/C)|
 ||65|[JOI 2010 春合宿 - Finals(Day 3)](https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals), [問題](https://www.ioi-jp.org/camp/2010/2010-sp-tasks/2010-sp-day3_22.pdf)|4|JOI 春合宿の問題だが、比較的簡単|[クラスカル法 + 一般のKの時の考察](https://atcoder.jp/contests/joisc2010/submissions/11659915)|
 ||66|[AOJ 1127 - Building a Space Station](https://onlinejudge.u-aizu.ac.jp/problems/1127)|3|-|[クラスカル法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1127/review/4333742/knknkn1162/C)|
-||67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)||やや難しい。素朴な最小全域木ではO(N^2)で解けないが..|[ソート -> クラスカル法](https://atcoder.jp/contests/abc065/submissions/11662019)|
+||67|[AtCoder Beginner Contest 065 D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b)|4|やや難しい。素朴な最小全域木ではO(N^2)で解けないが..|[ソート -> クラスカル法](https://atcoder.jp/contests/abc065/submissions/11662019)|
 ||68|[NTL_1_A - 素因数分解](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_A)|1~2|基本問題|[単純なloopによる解法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_A/review/4334191/knknkn1162/C) or [エラトステネスのふるい](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_A/review/4334411/knknkn1162/C)|
 ||69|[AtCoder Beginner Contest 084 D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d)|3|-|[エラトステネスのふるい + 累積和](https://atcoder.jp/contests/abc084/submissions/11665020)|
 ||70|[NTL_1_B - べき乗](https://onlinejudge.u-aizu.ac.jp/problems/NTL_1_B)||-|[bit演算](https://onlinejudge.u-aizu.ac.jp/solutions/problem/NTL_1_B/review/4334457/knknkn1162/C)|
@@ -103,8 +103,8 @@
 ||95|[AtCoder Beginner Contest 149 B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)|1|200-300 点問題の数学的問題の典型|[簡単な考察](https://atcoder.jp/contests/abc149/submissions/11486960)|
 ||96|[AtCoder Beginner Contest 139 D - ModSum](https://atcoder.jp/contests/abc139/tasks/abc139_d)|2|考察一個|[法則性をみつけるだけ](https://atcoder.jp/contests/abc139/submissions/11487225)|
 ||97|[AtCoder Beginner Contest 150 D - Semi Common Multiple](https://atcoder.jp/contests/abc150/submissions/11522990)|3|-|[最小公倍数](https://atcoder.jp/contests/abc150/submissions/11522990)|
-|o|98|[三井住友信託銀行プログラミングコンテスト2019 予選 E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e)||-|[]()|
-|o|99|[DDCC2020 予選 D - Digit Sum Replace](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d)||考察一個|[]()|
+||98|[三井住友信託銀行プログラミングコンテスト2019 予選 E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e)|3|-|[数学的な考察, 配列](https://atcoder.jp/contests/sumitrust2019/submissions/11699547)|
+||99|[DDCC2020 予選 D - Digit Sum Replace](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d)||考察一個|[考察(数字の遷移方法は2パターンのうちどれか)](https://atcoder.jp/contests/ddcc2020-qual/submissions/11700593)|
 |o|100|[Tenka1 Programmer Beginner Contest D - Crossing](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d)||やや難|[]()|
 
 # 解説
