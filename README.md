@@ -13,7 +13,7 @@
 |5|[AtCoder Beginner Contest 095 C - Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a)|2|全探索/-|[考察](https://atcoder.jp/contests/abc095/submissions/10376238)|
 |6|[三井住友信託銀行プログラミングコンテスト 2019 D - Lucky PIN](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d)|2|全探索/-|[全探索(要工夫), skip](https://atcoder.jp/contests/sumitrust2019/submissions/10583223)|
 |7|[JOI 2007 本選 3 - 最古の遺跡](https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c)|2|全探索/面白い|[全探索(要工夫),二次元](https://atcoder.jp/contests/joi2007ho/submissions/10660106)|
-|8|[Square869120Contest #6 B - AtCoder Markets](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)|4|全探索/工夫|[全探索(要工夫),中央値](https://atcoder.jp/contests/s8pc-6/submissions/10662359)|
+|8|[Square869120Contest #6 B - AtCoder Markets](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)|4|考察/全探索/工夫|[全探索(要工夫),中央値](https://atcoder.jp/contests/s8pc-6/submissions/10662359)|
 |9|[JOI 2008 予選 4 - 星座探し](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d)|3|全探索/-|[全探索(要工夫),二次元](https://atcoder.jp/contests/joi2008yo/submissions/10665323)|
 |10|[ALDS_5_A - 総当たり](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_5_A)|1|全探索/基本問題|[bit全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_5_A/review/4244976/knknkn1162/C)|
 |11|[AtCoder Beginner Contest 128 C - Switches](https://atcoder.jp/contests/abc128/tasks/abc128_c)|3|全探索/-|[bit全探索,ややこしい](https://atcoder.jp/contests/abc128/submissions/10586194)|
