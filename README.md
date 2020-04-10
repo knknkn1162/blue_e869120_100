@@ -46,7 +46,7 @@
 |38|[ALDS_10_C - 最長共通部分列](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_10_C)|3|動的計画法/基本問題|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_10_C/review/4281838/knknkn1162/C)|
 |39|[JOI 2011 予選 4 - 1 年生](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d)|3|動的計画法/-|[DP](https://atcoder.jp/contests/joi2011yo/submissions/11044913)|
 |40|[JOI 2012 予選 4 - パスタ](https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d)|5|動的計画法/-|[DP, 三項間漸化式](https://atcoder.jp/contests/joi2012yo/submissions/11063373)|
-|41|[JOI 2013 予選 4 - 暑い日々](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d)|4|動的計画法/-|[DP](https://atcoder.jp/contests/joi2013yo/submissions/11071917)|
+|41|[JOI 2013 予選 4 - 暑い日々](https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d)|4|動的計画法/-|[DP, 添字に注意](https://atcoder.jp/contests/joi2013yo/submissions/11071917)|
 |42|[JOI 2015 予選 4 - シルクロード](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d)|4|動的計画法/-|[DP, 添字に注意](https://atcoder.jp/contests/joi2015yo/submissions/11072738)|
 |43|[パ研杯2019 D - パ研軍旗](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_d)|4|動的計画法/-|[DP](https://atcoder.jp/contests/pakencamp-2019-day3/submissions/11073514)|
 |44|[AOJ 1167 - ポロック予想](https://onlinejudge.u-aizu.ac.jp/problems/1167)|3|動的計画法/-|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1167/review/4285611/knknkn1162/C)|
