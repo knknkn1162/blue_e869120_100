@@ -80,7 +80,7 @@
 ||72|[AtCoder Beginner Contest 034 C - 経路](https://atcoder.jp/contests/abc034/tasks/abc034_c)|3|基本問題|[二項係数の計算、逆元](https://atcoder.jp/contests/abc034/submissions/11684318)|
 ||73|[Atcoder Beginner Contest 145 D - Knight](https://atcoder.jp/contests/abc145/tasks/abc145_d)|3|-|[考察、二項係数の計算、逆元](https://atcoder.jp/contests/abc145/submissions/11685019)|
 ||74|[AtCoder Beginner Contest 021 D - 多重ループ](https://atcoder.jp/contests/abc021/tasks/abc021_d)|3|-|[考察、重複組合せ, 逆元](https://atcoder.jp/contests/abc021/submissions/11687036)|
-|o|75|[AtCoder Beginner Contest 149 F - Surrounded Nodes](https://atcoder.jp/contests/abc149/tasks/abc149_f)|5|チャレンジ問題|[]()|
+||75|[AtCoder Beginner Contest 149 F - Surrounded Nodes](https://atcoder.jp/contests/abc149/tasks/abc149_f)|5|チャレンジ問題|[辺の切断, 全て白の頂点の場合を考慮, DFS, 逆元](https://atcoder.jp/contests/abc149/submissions/11712248)|
 ||76|[全国統一プログラミング王決定戦本戦 A - Abundant Resources](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a)|1|基本|[累積和](https://atcoder.jp/contests/nikkei2019-final/submissions/11334284)|
 ||77|[JOI 2010 本選 1 - 旅人](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a)|2|-|[累積和, 添字に注意](https://atcoder.jp/contests/joi2010ho/submissions/11338148)|
 ||78|[JOI 2011 本選 1 - 惑星探査](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1)|3|二次元累積和|[二次元累積和](https://atcoder.jp/contests/joi2011ho/submissions/11340451)|
