@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 |1|[組み合わせの数](https://onlinejudge.u-aizu.ac.jp/problems/ITP1_7_B)|1|全探索/基本問題|[全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ITP1_7_B/review/4281105/knknkn1162/C)|
 |2|[AtCoder Beginner Contest 106 B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b)|1|全探索/-|[全探索](https://atcoder.jp/contests/abc106/submissions/11035473) or [手計算](https://atcoder.jp/contests/abc106/submissions/10375434)|
-|3|[AtCoder Beginner Contest 122 B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|1|全探索/-|[全探索, skip](https://atcoder.jp/contests/abc122/submissions/11035941)|
+|3|[AtCoder Beginner Contest 122 B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)|1|全探索/-|[全探索, skip](https://atcoder.jp/contests/abc122/submissions/11725206)|
 |4|[パ研杯2019 C - カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c)|2|全探索/免許皆伝問題|[全探索](https://atcoder.jp/contests/pakencamp-2019-day3/submissions/11036549)|
 |5|[AtCoder Beginner Contest 095 C - Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a)|2|全探索/-|[考察](https://atcoder.jp/contests/abc095/submissions/10376238)|
 |6|[三井住友信託銀行プログラミングコンテスト 2019 D - Lucky PIN](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d)|2|全探索/-|[全探索(要工夫), skip](https://atcoder.jp/contests/sumitrust2019/submissions/11724674)|
