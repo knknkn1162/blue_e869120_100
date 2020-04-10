@@ -59,9 +59,9 @@
 |51|[JOI 2014 予選 4 - 部活のスケジュール表](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d)|3|一応bitDPとして|[bitDP](https://atcoder.jp/contests/joi2014yo/submissions/11260609)|
 |52|[JOI 2017 予選 4 - ぬいぐるみの整理](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)|5|少し難しい|[bitDP, 累積和](https://atcoder.jp/contests/joi2017yo/submissions/11263795)|
 |53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|-|[stack, 線形探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4332973/knknkn1162/C) or [stack, 二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4302517/knknkn1162/C)|
-|54|[AtCoder Beginner Contest 006 D - トランプ挿入ソート](https://atcoder.jp/contests/abc006/tasks/abc006_4)|3|-|[53とほぼ同様にstack](https://atcoder.jp/contests/abc006/submissions/11331581)|
+|54|[AtCoder Beginner Contest 006 D - トランプ挿入ソート](https://atcoder.jp/contests/abc006/tasks/abc006_4)|3|-|[53とほぼ同様。stack](https://atcoder.jp/contests/abc006/submissions/11331581)|
 |55|[AtCoder Beginner Contest 134 E - Sequence Decomposing](https://atcoder.jp/contests/abc134/tasks/abc134_e)|5|チャレンジ問題|[groupの要素数をメンバにしたstack](https://atcoder.jp/contests/abc134/submissions/11333378)|
-|56|[GRL_1_A - 単一始点最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_A)|3|-|[ダイクストラ+min heap](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C), [ベルマンフォード法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C)|
+|56|[GRL_1_A - 単一始点最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_A)|3|-|[ダイクストラ+min heap](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C) or [ベルマンフォード法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C)|
 |57|[JOI 2008 予選 6 - 船旅](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f)|3|ワーシャルフロイド法でも(ダイクストラでも)|[ダイクストラ + min heap](https://atcoder.jp/contests/joi2008yo/submissions/11579403) or [ワーシャルフロイド法](https://atcoder.jp/contests/joi2008yo/submissions/11604956) or [ベルマンフォード法](https://atcoder.jp/contests/joi2008yo/submissions/11591911)|
 |58|[JOI 2016 予選 5 - ゾンビ島](https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e)|4|幅優先探索も使う。実装重め|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2016yo/submissions/11613275)|
 |59|[JOI 2014 予選 5 - タクシー](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e)|5|-|[BFS, ダイクストラ, min heap](https://atcoder.jp/contests/joi2014yo/submissions/11632287)|
@@ -91,14 +91,14 @@
 |83|[JOI 2015 本選 1 - 鉄道運賃](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a)|3|-|[いもす法、添字に注意](https://atcoder.jp/contests/joi2015ho/submissions/11370150)|
 |84|[JOI 2012 本選 4 - 釘](https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4)|5|チャレンジ問題|[いもす法, 3階差分](https://atcoder.jp/contests/joi2012ho/submissions/11421264)|
 |85|[DSL_1_A - 互いに素な集合](https://onlinejudge.u-aizu.ac.jp/problems/DSL_1_A)|2|基本問題|[Union Find](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DSL_1_A/review/4315753/knknkn1162/C)|
-|86|[AtCoder Beginner Contest 075 C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c)|3|深さ優先探索でもUnion Findでも解ける|[複数回Union Find](https://atcoder.jp/contests/abc075/submissions/11444607)|
+|86|[AtCoder Beginner Contest 075 C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c)|3|深さ優先探索でもUnion Findでも解ける|[複数回Union Find](https://atcoder.jp/contests/abc075/submissions/11441154) or [複数回DFS](https://atcoder.jp/contests/abc075/submissions/11444607)|
 |87|[AtCoder Beginner Contest 120 D - Decayed Bridge](https://atcoder.jp/contests/abc120/tasks/abc120_d)|4|少し難しい|[Union-Find, 累積和](https://atcoder.jp/contests/abc120/submissions/11458940)|
 |88|[JOI 2008 本選 1 - 碁石ならべ](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a)|3|-|[stack](https://atcoder.jp/contests/joi2008ho/submissions/11465819)|
 |89|[JOI 2013 本選 1 - 電飾](https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1)|3|-|[stack](https://atcoder.jp/contests/joi2013ho/submissions/11466663)|
 |90|[Square869120Contest #5 B - Emblem](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|2|-|[sqrtを使用](https://atcoder.jp/contests/s8pc-5/submissions/11467649)|
 |91|[AtCoder Beginner Contest 144 D - Water Bottle](https://atcoder.jp/contests/abc144/tasks/abc144_d)|2|-|[atanを使用](https://atcoder.jp/contests/abc144/submissions/11475040)|
 |92|[AOJ 1193 - 連鎖消滅パズル](https://onlinejudge.u-aizu.ac.jp/problems/1193)|3|-|[落ちゲー、解くだけ](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1193/review/4320693/knknkn1162/C)|
-|93|[Square869120Contest #3 B - 石落としゲーム](https://atcoder.jp/contests/s8pc-3/tasks/s8pc_3_b)|3|-|[(WIDTH)×(HEIGHT-1)個シュミレート](https://atcoder.jp/contests/s8pc-3/submissions/11477560)|
+|93|[Square869120Contest #3 B - 石落としゲーム](https://atcoder.jp/contests/s8pc-3/tasks/s8pc_3_b)|3|-|[落ちゲー, (WIDTH)×(HEIGHT-1)個シュミレート](https://atcoder.jp/contests/s8pc-3/submissions/11477560)|
 |94|[AOJ 1149 - ケーキカット](https://onlinejudge.u-aizu.ac.jp/problems/1149)|4|-|[連結リスト](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1149/review/4321489/knknkn1162/C)|
 |95|[AtCoder Beginner Contest 149 B - Greedy Takahashi](https://atcoder.jp/contests/abc149/tasks/abc149_b)|1|200-300 点問題の数学的問題の典型|[簡単な考察](https://atcoder.jp/contests/abc149/submissions/11486960)|
 |96|[AtCoder Beginner Contest 139 D - ModSum](https://atcoder.jp/contests/abc139/tasks/abc139_d)|2|考察一個|[法則性をみつけるだけ](https://atcoder.jp/contests/abc139/submissions/11487225)|
