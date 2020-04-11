@@ -82,7 +82,7 @@
 |74|[AtCoder Beginner Contest 021 D - 多重ループ](https://atcoder.jp/contests/abc021/tasks/abc021_d)|3|逆元を使う問題/-|[考察、重複組合せ, 逆元](https://atcoder.jp/contests/abc021/submissions/11687036)|
 |75|[AtCoder Beginner Contest 149 F - Surrounded Nodes](https://atcoder.jp/contests/abc149/tasks/abc149_f)|5|逆元を使う問題/チャレンジ問題|[辺の切断, 全て白の頂点の場合を考慮, DFS, 逆元](https://atcoder.jp/contests/abc149/submissions/11712248)|
 |76|[全国統一プログラミング王決定戦本戦 A - Abundant Resources](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a)|1|累積和/基本問題|[累積和](https://atcoder.jp/contests/nikkei2019-final/submissions/11334284)|
-|77|[JOI 2010 本選 1 - 旅人](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a)|2|累積和/-|[累積和, 添字に注意](https://atcoder.jp/contests/joi2010ho/submissions/11338148)|
+|77|[JOI 2010 本選 1 - 旅人](https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a)|2|累積和/-|[累積和, 添字に注意](https://atcoder.jp/contests/joi2010ho/submissions/11338148), [いもす法](https://atcoder.jp/contests/joi2010ho/submissions/11746886)|
 |78|[JOI 2011 本選 1 - 惑星探査](https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1)|3|累積和/二次元累積和|[二次元累積和](https://atcoder.jp/contests/joi2011ho/submissions/11340451)|
 |79|[AtCoder Beginner Contest 106 D - AtCoder Express 2](https://atcoder.jp/contests/abc106/tasks/abc106_d)|3|累積和/-|[二次元累積和](https://atcoder.jp/contests/abc106/submissions/11348226) or [区間DP](https://atcoder.jp/contests/abc106/submissions/11346781)|
 |80|[GigaCode 2019 D - 家の建設](https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d)|3|累積和/-|[二次元累積和](https://atcoder.jp/contests/gigacode-2019/submissions/11350327)|
