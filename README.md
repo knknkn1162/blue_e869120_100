@@ -24,7 +24,7 @@
 |16|[AtCoder Beginner Contest 150 C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c)|2|全探索/-|[順列全探索](https://atcoder.jp/contests/abc150/submissions/10632625)|
 |17|[ALDS_13_A - 8 クイーン問題](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_13_A)|3|全探索/面白い|[順列全探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_13_A/review/4254080/knknkn1162/C)|
 |18|[ALDS_4_B - 二分探索](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_4_B)|1|二分探索/基本問題, mapでも解ける|[二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4261818/knknkn1162/C) or [hash(map)](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4333032/knknkn1162/C) or [sort -> 線形探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_4_B/review/4333136/knknkn1162/C)|
-|19|[JOI 2009 本選 2 - ピザ](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)|2|二分探索/-|[環状->線状に, 二分探索](https://atcoder.jp/contests/joi2009ho/submissions/10814537)|
+|19|[JOI 2009 本選 2 - ピザ](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)|2|二分探索/-|[環状は二周確保, 二分探索](https://atcoder.jp/contests/joi2009ho/submissions/10814537)|
 |20|[AtCoder Beginner Contest 077 C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a)|3|二分探索/面白い|[二分探索(lower/upper bound)、中部を軸に](https://atcoder.jp/contests/abc077/submissions/10816319) or [二分探索,累積和](https://atcoder.jp/contests/abc077/submissions/10815991)|
 |21|[AtCoder Beginner Contest 023 D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|5|二分探索/教育的に良い|[解決め打ちで二分検索(lower bound)](https://atcoder.jp/contests/abc023/submissions/11029093)|
 |22|[AtCoder Regular Contest 054 B - ムーアの法則](https://atcoder.jp/contests/arc054/tasks/arc054_b)|3|二分探索/微分して二分法|[二分法](https://atcoder.jp/contests/arc054/submissions/10824878) or [手計算](https://atcoder.jp/contests/arc054/submissions/10823956)|
@@ -52,7 +52,7 @@
 |44|[AOJ 1167 - ポロック予想](https://onlinejudge.u-aizu.ac.jp/problems/1167)|3|動的計画法/-|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1167/review/4285611/knknkn1162/C)|
 |45|[AOJ 2199 - 差分パルス符号変調](https://onlinejudge.u-aizu.ac.jp/problems/2199)|4|動的計画法/-|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/2199/review/4290020/knknkn1162/C)|
 |46|[ALDS_10_B - 連鎖行列積](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_10_B)|3|動的計画法/基本問題|[区間DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_10_B/review/4290616/knknkn1162/C)|
-|47|[JOI 2015 本選 2 - ケーキの切り分け 2](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b)|4|動的計画法/O(N^2)の区間DP|[環状->線状に,区間DP](https://atcoder.jp/contests/joi2015ho/submissions/11199863)|
+|47|[JOI 2015 本選 2 - ケーキの切り分け 2](https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b)|4|動的計画法/O(N^2)の区間DP|[環状は二周確保,区間DP](https://atcoder.jp/contests/joi2015ho/submissions/11199863)|
 |48|[AOJ 1611 ダルマ落とし](https://onlinejudge.u-aizu.ac.jp/problems/1611)|5|動的計画法/O(N^3)の区間DP|[下からi個までのダルマについて都度区間DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1611/review/4296429/knknkn1162/C)|
 |49|[DPL_2_A - 巡回セールスマン問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_2_A)|3|動的計画法/基本問題|[bit DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_2_A/review/4300234/knknkn1162/C)|
 |50|[Square869120Contest #1 G - Revenge of Traveling Salesman Problem](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g)|4|動的計画法/巡回セールスマン問題の類題|[bit DP](https://atcoder.jp/contests/s8pc-1/submissions/11258019)|
