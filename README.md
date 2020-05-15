@@ -28,7 +28,7 @@
 |20|[AtCoder Beginner Contest 077 C - Snuke Festival](https://atcoder.jp/contests/abc077/tasks/arc084_a)|3|二分探索/面白い|[二分探索(lower/upper bound)、中部を軸に](https://atcoder.jp/contests/abc077/submissions/10816319) or [二分探索,累積和](https://atcoder.jp/contests/abc077/submissions/10815991)|
 |21|[AtCoder Beginner Contest 023 D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|5|二分探索/教育的に良い|[解決め打ちで二分検索(lower bound)](https://atcoder.jp/contests/abc023/submissions/11029093)|
 |22|[AtCoder Regular Contest 054 B - ムーアの法則](https://atcoder.jp/contests/arc054/tasks/arc054_b)|3|二分探索/微分して二分法|[二分法](https://atcoder.jp/contests/arc054/submissions/10824878) or [手計算](https://atcoder.jp/contests/arc054/submissions/10823956)|
-|23|[JOI 2008 本選 3 - ダーツ](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c)|4|二分探索/チャレンジ問題|[解決め打ちで二分検索(upper bound), 2つの和に帰着](https://atcoder.jp/contests/joi2008ho/submissions/10906780)|
+|23|[JOI 2008 本選 3 - ダーツ](https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c)|4|二分探索/チャレンジ問題|[解決め打ちで二分検索(upper bound), 半分全列挙](https://atcoder.jp/contests/joi2008ho/submissions/10906780)|
 |24|[ALDS_11_B - 深さ優先探索](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_11_B)|1|深さ優先探索/基本問題|[stack版DFS](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_11_B/review/4265393/knknkn1162/C) or [再帰版DFS](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_11_B/review/4348838/knknkn1162/C)|
 |25|[AOJ 1160 - 島はいくつある？](https://onlinejudge.u-aizu.ac.jp/problems/1160)|2|深さ優先探索/-|[複数回DFS](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1160/review/4265477/knknkn1162/C) or [再帰DFS](https://onlinejudge.u-aizu.ac.jp/solutions/problem/1160/review/4359287/knknkn1162/C)|
 |26|[AtCoder Beginner Contest 138 D - Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d)|5|深さ優先探索/-|[DFS, 累積和](https://atcoder.jp/contests/abc138/submissions/10946685) or [BFS, 累積和](https://atcoder.jp/contests/abc138/submissions/10985972) or [木DP(再帰)](https://atcoder.jp/contests/abc138/submissions/11952547)|
@@ -41,7 +41,7 @@
 |33|[AtCoder Beginner Contest 088 D - Grid Repainting](https://atcoder.jp/contests/abc088/tasks/abc088_d)|3|幅優先探索/免許皆伝問題|[BFS](https://atcoder.jp/contests/abc088/submissions/11023795)|
 |34|[ALDS_10_A - フィボナッチ数](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_10_A)|1|動的計画法/超基本|[DP(漸化式)](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_10_A/review/4281332/knknkn1162/C)|
 |35|[DPL_1_B - 0,1ナップザック問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_B)|2|動的計画法/基本問題|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_B/review/4281552/knknkn1162/C)|
-|36|[DPL_1_C - ナップザック問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_C)|2|動的計画法/基本問題|[1次元DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_C/review/4281702/knknkn1162/C)|
+|36|[DPL_1_C - ナップザック問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_C)|2|動的計画法/基本問題|[インラインDP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_C/review/4281702/knknkn1162/C)|
 |37|[DPL_1_A - コイン問題](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_A)|2|動的計画法/基本問題|[DP, 「必ず1を含む」を利用](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_A/review/4281782/knknkn1162/C)|
 |38|[ALDS_10_C - 最長共通部分列](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_10_C)|3|動的計画法/基本問題|[DP](https://onlinejudge.u-aizu.ac.jp/solutions/problem/ALDS1_10_C/review/4281838/knknkn1162/C)|
 |39|[JOI 2011 予選 4 - 1 年生](https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d)|3|動的計画法/-|[DP](https://atcoder.jp/contests/joi2011yo/submissions/11044913)|
@@ -58,7 +58,7 @@
 |50|[Square869120Contest #1 G - Revenge of Traveling Salesman Problem](https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_g)|4|動的計画法/巡回セールスマン問題の類題|[bit DP](https://atcoder.jp/contests/s8pc-1/submissions/11258019)|
 |51|[JOI 2014 予選 4 - 部活のスケジュール表](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d)|3|動的計画法/一応bitDPとして|[bitDP](https://atcoder.jp/contests/joi2014yo/submissions/11260609)|
 |52|[JOI 2017 予選 4 - ぬいぐるみの整理](https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d)|5|動的計画法/少し難しい|[bitDP, 累積和](https://atcoder.jp/contests/joi2017yo/submissions/11263795)|
-|53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|動的計画法/-|[stack, 線形探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4332973/knknkn1162/C) or [stack, 二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4302517/knknkn1162/C)|
+|53|[DPL_1_D - 最長増加部分列](https://onlinejudge.u-aizu.ac.jp/problems/DPL_1_D)|3|動的計画法/-|[インラインDP,  二分探索](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4474200/knknkn1162/C) or [LIS, 座標圧縮、セグメント木](https://onlinejudge.u-aizu.ac.jp/solutions/problem/DPL_1_D/review/4474526/knknkn1162/C)|
 |54|[AtCoder Beginner Contest 006 D - トランプ挿入ソート](https://atcoder.jp/contests/abc006/tasks/abc006_4)|3|動的計画法/-|[53とほぼ同様。stack](https://atcoder.jp/contests/abc006/submissions/11331581)|
 |55|[AtCoder Beginner Contest 134 E - Sequence Decomposing](https://atcoder.jp/contests/abc134/tasks/abc134_e)|5|動的計画法/チャレンジ問題|[groupの要素数をメンバにしたstack](https://atcoder.jp/contests/abc134/submissions/11333378)|
 |56|[GRL_1_A - 単一始点最短経路](https://onlinejudge.u-aizu.ac.jp/problems/GRL_1_A)|3|ダイクストラ法/-|[ダイクストラ+min heap](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C) or [ベルマンフォード法](https://onlinejudge.u-aizu.ac.jp/solutions/problem/GRL_1_A/review/4324769/knknkn1162/C)|
